@@ -175,4 +175,3 @@ Adicione uma licença ao repositório caso queira definir formalmente como outra
 ---
 
 Desenvolvido como projeto de análise e visualização de dados de Fórmula 1 com Python.
->>>>>>> 9d3c53e (Versão com dashboard atualizada)
